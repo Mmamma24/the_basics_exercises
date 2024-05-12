@@ -110,7 +110,7 @@ console.log(to===be);
 let mami = ('3.1415');
 let phy = mami;
 console.log(parseInt(phy));
-// the result is 3 becuse parseInt recognizes the first number before the decimal.
+// the result is 3 becuse parseInt recognizes the number before the decimal.
 
 // What value does the following expression evaluate to?
 // '12' < '9'
